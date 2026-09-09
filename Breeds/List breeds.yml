@@ -7,7 +7,7 @@ info:
 
 http:
   method: GET
-  url: www.example.coms
+  url: www.example.com
   auth: inherit
 
 settings:
