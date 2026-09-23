@@ -5,7 +5,7 @@ info:
 
 http:
   method: POST
-  url: http://echo.usebruno.com
+  url: http://echo.usebruno
   auth: inherit
 
 settings:
